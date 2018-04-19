@@ -18,3 +18,4 @@ The variables are given without normalization.
 2. Split the training data to cross validate the model.
 3. Train the data on different models i.e. LinearRegression, Lasso, XGB etc.
 4. Best result got by averaging of 4 models(LassoCV, LinearRegression, XGB and GradientBoostingRegressor)
+5. Got 0.958 r2_score.
